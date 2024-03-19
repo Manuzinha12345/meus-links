@@ -62,7 +62,11 @@ div a{
     font-size: 14px;
     font-weight: 700;
     line-height: 21px;
+}
 
-
+div a:hover{
+    background-color: #C4F82A;
+    color: #141414;
+    transition: 0.7s;
 }
 
